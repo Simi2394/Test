@@ -1,0 +1,21 @@
+h1{color:blueg;}
+
+p{background-color:blue}
+
+p:first-letter{color:yellow; font-size:20px;}
+
+a{color:yellow;
+	background-color:black;}
+
+body{background-image:url(https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+	background-repeat:no-repeat;
+	background-position:500px 500px;}
+
+img{
+	max-height: 500px;
+	min-height: 500px;
+	max-width: 500px;
+	min-width: 500px;
+}
+	
+	
